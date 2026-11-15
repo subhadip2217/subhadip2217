@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="360" viewBox="0 0 1100 360" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub profile metrics are being prepared</title>
+  <desc id="desc">A dark navy dashboard placeholder. GitHub statistics, language breakdown, achievements and contribution activity will appear after the profile metrics workflow runs.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101a35"/>
+      <stop offset=".55" stop-color="#151a2e"/>
+      <stop offset="1" stop-color="#092b3b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="1100" height="360" rx="24" fill="url(#bg)"/>
+  <circle cx="1010" cy="30" r="135" fill="#2563eb" opacity=".18" filter="url(#glow)"/>
+  <circle cx="55" cy="340" r="145" fill="#7c3aed" opacity=".16" filter="url(#glow)"/>
+  <rect x="1" y="1" width="1098" height="358" rx="23" fill="none" stroke="#3b4b72" stroke-opacity=".8"/>
+  <rect x="44" y="42" width="7" height="30" rx="3.5" fill="url(#accent)"/>
+  <text x="70" y="62" fill="#a5b4fc" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="3">LIVE GITHUB DASHBOARD</text>
+  <text x="48" y="139" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="39" font-weight="700">Your metrics are getting ready.</text>
+  <text x="50" y="183" fill="#cbd5e1" font-family="Segoe UI,Arial,sans-serif" font-size="19">This card will show your GitHub stats, top languages, achievements</text>
+  <text x="50" y="211" fill="#cbd5e1" font-family="Segoe UI,Arial,sans-serif" font-size="19">and contribution activity — generated inside this repository.</text>
+  <g transform="translate(50 265)">
+    <rect width="1000" height="54" rx="13" fill="#0b1226" stroke="#334155"/>
+    <circle cx="27" cy="27" r="7" fill="#22d3ee"/>
+    <text x="48" y="33" fill="#e2e8f0" font-family="Segoe UI,Arial,sans-serif" font-size="16">Next: add the METRICS_TOKEN Actions secret and run “Update profile metrics”.</text>
+  </g>
+  <g opacity=".55" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round">
+    <path d="M865 130v-35m25 35V78m25 52V105m25 25V60m25 70V88m25 42V48"/>
+  </g>
+</svg>
