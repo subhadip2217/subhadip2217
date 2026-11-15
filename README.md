@@ -77,19 +77,20 @@ I'm a student and self-driven developer from India who enjoys exploring technolo
 ## 📊 GitHub overview
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=subhadip2217&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhadip2217&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-  <br/><br/>
+
+<img width="100%" src="./github-metrics.svg" alt="Automatically generated GitHub account statistics, language breakdown, achievements and contribution activity" />
+
+</div>
+
+<div align="center">
   <img width="72%" src="https://streak-stats.demolab.com?user=subhadip2217&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
-## 🏆 Achievements & activity
-
-<div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=subhadip2217&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile trophies" />
-  <br/>
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=subhadip2217&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-</div>
+<p align="center">
+  <a href="https://github.com/subhadip2217?tab=achievements">🏆 View GitHub achievements</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/subhadip2217?tab=overview">📈 View complete activity</a>
+</p>
 
 ## 🐍 Contributions in motion
 
